@@ -1,0 +1,146 @@
+body {
+
+
+	background-color: #000;
+	color: #fff;
+	font-family: "Avenir","Helvetica", sans-serif;
+}
+
+
+p {
+
+	font-size: 1em;
+	line-height: 1.5em;
+	font-family: sans-serif;
+	text-align: justify;
+	margin: 20px;
+}
+
+
+h1, h2, h3 {
+
+	text-align: center;
+}
+
+nav {
+	font-size: 0.8em;
+	text-transform: uppercase;
+	text-align: center;
+	color: #777;
+}
+
+a {
+
+	text-decoration: none;
+	color: orange;
+	font-weight: bold;
+}
+
+a:hover {
+
+	text-decoration: overline;
+	color: red;
+	font-weight: bold;
+}
+
+a:active {
+
+	text-decoration: overline;
+	color: yellow;
+	font-weight: bold;
+}
+
+figcaption {
+
+font-weight: normal;
+font-size: 0.75em;
+line-height: 1.5em;
+font-family: serif;
+text-align: center;
+
+}
+
+video {
+
+width: 400px;
+display: block;
+margin: 0 auto;
+
+}
+
+img {
+padding-top: 50px;
+display: block;
+margin: 0 auto;
+
+}
+
+iframe {
+
+display: block;
+margin: 0 auto;
+
+}
+
+blockquote {
+
+	text-align: justify;
+	font-size: 2em;
+	line-height: 1.5em;
+	font-family: serif;
+	letter-spacing: 1px;
+
+}
+
+footer {
+
+	text-align: center;
+	font-size: .75em;
+	line-height: 1.5em;
+	font-family: serif;
+	padding-bottom: 30px;
+
+}
+
+table {
+
+	background-color: #666;
+
+}
+
+th {
+
+	font-size: .75em;
+	line-height: 1.5em;
+	color: #ddd;
+	text-align: center;
+	padding-top: .5em;
+	padding-bottom: .5em;
+	text-transform: uppercase;
+}
+
+td {
+
+	font-size: .5em;
+	width: 200em;
+	text-align: center;
+	padding-bottom: 2em;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 0 auto;
+  background: url(../images/lowresgarden.jpg);
+  border-color: #ddd;
+  border-width: 1px;
+  border-style: solid;
+}
+
+.dylanquote {
+
+	text-align: right;
+	font-size: .5em;
+	line-height: 1.5em;
+	font-family: serif;
+
+}
