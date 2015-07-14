@@ -1,6 +1,5 @@
 body {
 
-
 	background-color: #000;
 	color: #fff;
 	font-family: "Avenir";
@@ -23,12 +22,14 @@ h1, h2, h3 {
 	text-align: center;
 }
 
+
 nav {
 	font-size: 0.8em;
 	text-transform: uppercase;
 	text-align: center;
 	color: #777;
 }
+
 
 a {
 
